@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cctracker",
+  "name": "CCTracker",
+  "description": "Displays collection chest data on-screen and highlights by status.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Life"],
+  "credits": "Life",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
