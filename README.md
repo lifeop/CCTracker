@@ -8,9 +8,9 @@ A Minecraft Forge mod for **Minecraft 1.8.9** that tracks and displays Ender Che
 
 ### Ender Chest Highlights
 - **Color-coded outlines** around Ender Chests based on fill percentage:
-  - **Red** ? Below 50% filled
-  - **Orange** ? 50?80% filled
-  - **Green** ? Above 80% filled
+  - **Red** - Below 50% filled
+  - **Orange** - 50-80% filled
+  - **Green** - Above 80% filled
 - Highlights only chests within 64 blocks for performance.
 - Highlights persist across sessions using saved data.
 
@@ -21,7 +21,7 @@ A Minecraft Forge mod for **Minecraft 1.8.9** that tracks and displays Ender Che
 
 ### Left-Click Data Collection
 - **Left-click** an Ender Chest to silently read its data **without opening the GUI**.
-- Prevents accidental mining ? left-clicks are intercepted to read data instead of breaking the block.
+- Prevents accidental mining - Left-clicks are intercepted to read data instead of breaking the block.
 - Works even when the chest GUI is blocked or would normally open.
 
 ### Data Persistence
